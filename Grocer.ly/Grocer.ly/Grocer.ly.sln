@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grocer.ly", "Grocer.ly\Grocer.ly.csproj", "{B967A3E1-BFAB-4DEA-A5D7-1117814D6754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B967A3E1-BFAB-4DEA-A5D7-1117814D6754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B967A3E1-BFAB-4DEA-A5D7-1117814D6754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B967A3E1-BFAB-4DEA-A5D7-1117814D6754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B967A3E1-BFAB-4DEA-A5D7-1117814D6754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
